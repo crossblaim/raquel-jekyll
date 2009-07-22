@@ -1,0 +1,10 @@
+---
+layout: post_es
+title: "Akira en su balancín"
+---
+
+<div class="photo"><a href="http://picasaweb.google.com/lh/photo/_854qQkaOKNF7aijTTyz6w?feat=embedwebsite"><img src="http://lh4.ggpht.com/_vO_pKJcXVKM/SkkvhcLlwRI/AAAAAAAACpU/fsYCO2X6QkI/s400/DSC_0291.jpg" /></a></div>
+
+<div class="photo"><a href="http://picasaweb.google.com/lh/photo/pIbPWuPF6q0LXEDi7kSTiA?feat=embedwebsite"><img src="http://lh5.ggpht.com/_vO_pKJcXVKM/SkkvhmqtjCI/AAAAAAAACpY/4udU8F3MDfk/s400/DSC_0293.JPG" /></a></div>
+
+<div class="photo"><a href="http://picasaweb.google.com/lh/photo/aK8QFq8uCyAuFalosZ8tFQ?feat=embedwebsite"><img src="http://lh6.ggpht.com/_vO_pKJcXVKM/Skkvh6nFqnI/AAAAAAAACpc/4FdOU4jd27E/s400/DSC_0294.JPG" /></a></div>
