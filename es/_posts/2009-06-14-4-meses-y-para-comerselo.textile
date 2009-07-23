@@ -1,0 +1,8 @@
+---
+layout: post_es
+title: "4 meses y...para comérselo!"
+---
+
+ <div class="photo"><a href="http://picasaweb.google.com/lh/photo/YgbUgkw1DvENP_uXXg9VfQ?feat=embedwebsite"><img src="http://lh4.ggpht.com/_vO_pKJcXVKM/SjTF0AbzKKI/AAAAAAAACcU/aprF2dPlH90/s400/DSC_0235.JPG" /></a></div>
+
+<div class="photo"><a href="http://picasaweb.google.com/lh/photo/BM5KV8dwLhO469tVNAEoSg?feat=embedwebsite"><img src="http://lh5.ggpht.com/_vO_pKJcXVKM/SjTF0Ttv_qI/AAAAAAAACcY/JYSTTjLB9eQ/s400/DSC_0270.JPG" /></a></div>
